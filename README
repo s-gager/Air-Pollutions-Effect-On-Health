@@ -1,0 +1,25 @@
+What question are you asking?
+  The question I wish to answer with my current data set is: 
+    how much of an effect does air pollution in cities versus rural areas in the 
+    countries around the world have on the death rate from diseases related to poor air quality? 
+What answer did you get?
+  Currently this is still in question but it appears that there is most certainly a heavier rate of 
+  deaths by these diseases in cities where populations are not only more dense but the exposure to 
+  poor air quality is both higher and more constant. 
+  Additionally it appears that some countries are certainly affected more by the poor air quality then others. 
+  This depends on the number of dense cities, the number of cars or other sources of pollution, and any 
+  regulations that might be in place to prevent poor air quality. 
+What data did you use?
+  I used population data from The World Bank website: https://data.worldbank.org/indicator/sp.pop.totl
+  I also used data on air quality and deaths from diseases related to air quality from the World Health Organization: 
+  Death rates: http://apps.who.int/gho/data/node.main.ENVHEALTHJOINTAAPHAP?lang=en
+  Air pollution: http://apps.who.int/gho/data/node.main.152?lang=en 
+  I may potentially seek further information on sources of pollution in different countries, air quality regulations 
+  in countries, and city densities as well. This information would be more used in the format of expanded written knowledge 
+  rather then data added to my current informational set. 
+Visualizations and/or pivot tables to demonstrate your conclusion.
+  Currently my visualization of this information is taking place in Excel primarily with tables and extracting the relevant 
+  data to make a readable version of all information. I will continue to work on this and with this information through 
+  pivot tables, mostly regarding death rates versus pollution, and also in Tableau through a few different possible formats. 
+  I would like to look at this on a global scale in order to be able to more easily compare the differences in countries 
+  around the world but I may also look into other formats that would allow easily visualized comparisons of what is going on. 
